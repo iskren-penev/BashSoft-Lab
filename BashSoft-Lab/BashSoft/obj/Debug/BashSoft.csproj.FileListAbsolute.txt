@@ -1,0 +1,12 @@
+c:\users\root\documents\visual studio 2015\Projects\BashSoft-Lab\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\root\documents\visual studio 2015\Projects\BashSoft-Lab\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\root\documents\visual studio 2015\Projects\BashSoft-Lab\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\root\documents\visual studio 2015\Projects\BashSoft-Lab\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2015\Projects\BashSoft-Lab\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\root\documents\visual studio 2015\Projects\BashSoft-Lab\BashSoft\obj\Debug\BashSoft.pdb
+D:\SoftUni Projects\C#\VS projects\BashSoft-Lab\BashSoft\bin\Debug\BashSoft.exe.config
+D:\SoftUni Projects\C#\VS projects\BashSoft-Lab\BashSoft\obj\Debug\BashSoft.exe
+D:\SoftUni Projects\C#\VS projects\BashSoft-Lab\BashSoft\obj\Debug\BashSoft.pdb
+D:\SoftUni Projects\C#\VS projects\BashSoft-Lab\BashSoft\bin\Debug\BashSoft.exe
+D:\SoftUni Projects\C#\VS projects\BashSoft-Lab\BashSoft\bin\Debug\BashSoft.pdb
+D:\SoftUni Projects\C#\VS projects\BashSoft-Lab\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
